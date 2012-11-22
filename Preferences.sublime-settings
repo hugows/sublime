@@ -1,0 +1,100 @@
+{
+	"binary_file_patterns":
+	[
+		"*.jpg",
+		"*.jpeg",
+		"*.png",
+		"*.gif",
+		"*.ttf",
+		"*.tga",
+		"*.dds",
+		"*.ico",
+		"*.eot",
+		"*.pdf",
+		"*.swf",
+		"*.dll",
+		"*.jar",
+		"*.zip",
+		"*.o",
+		"*.obj",
+		"*.exe",
+		"*.out",
+		"*.psd"
+	],
+	"caret_style": "wide",
+	"close_windows_when_empty": true,
+	"color_scheme": "Packages/Color Scheme - Default/Mac Classic.tmTheme",
+	"default_line_ending": "unix",
+	"draw_minimap_border": true,
+	"ensure_newline_at_eof_on_save": true,
+	"fade_fold_buttons": true,
+	"file_exclude_patterns":
+	[
+		".gitignore",
+		".tags",
+		"*.exe",
+		"*.obj",
+		"*.out",
+		"*.o",
+		"*.pyc",
+		"*.map",
+		"*.pyo",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.db",
+		"*.scssc"
+	],
+	"fold_buttons": true,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"work"
+	],
+	"font_size": 11.0,
+	"highlight_modified_tabs": true,
+	"hot_exit": false,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"ignored_words":
+	[
+		"Pre",
+		"and/or",
+		"buf",
+		"enum",
+		"fs",
+		"len",
+		"namespace",
+		"param"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal"
+	],
+	"indent_to_bracket": true,
+	"margin": 0,
+	"open_files_in_new_window": true,
+	"preview_on_click": false,
+	"remember_open_files": false,
+	"save_on_focus_lost": true,
+	"scroll_past_end": true,
+	"show_tab_close_buttons": true,
+	"theme": "Soda Light.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"tree_animation_enabled": false,
+	"vintage_start_in_command_mode": true,
+	"word_wrap": false
+}

@@ -1,0 +1,18 @@
+{
+	"camaleon":
+	[
+		[
+			"Soda Light.sublime-theme",
+			"Packages/Color Scheme - Default/Mac Classic.tmTheme"
+		],
+		[
+			"Soda Light.sublime-theme",
+			"Packages/Color Scheme - User/Tomorrow-Night-Blue.tmTheme"
+		],
+		[
+			"Soda Dark.sublime-theme",
+			"Packages/Color Scheme - User/Monokai Soda.tmTheme"
+		]
+	],
+	"current": 0
+}

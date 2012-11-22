@@ -1,0 +1,46 @@
+{
+	"close_windows_when_empty": false,
+	"file_exclude_patterns":
+	[
+		".gitignore",
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.jpg",
+		"*.png",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		".DS_Store",
+		"*.class",
+		"*.psd",
+		"*.db",
+		"modelsim.ini"
+	],
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"work"
+	],
+	"hot_exit": false,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"open_files_in_new_window": true,
+	"remember_open_files": false,
+	"theme": "Soda Light.sublime-theme",
+	"tree_animation_enabled": false
+}

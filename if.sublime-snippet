@@ -1,0 +1,7 @@
+<snippet>
+    <content><![CDATA[{% if $0 %}
+{% else %}
+{% endif %}]]></content>
+    <tabTrigger>if</tabTrigger>
+    <scope>text.html</scope>
+</snippet>

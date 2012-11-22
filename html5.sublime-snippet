@@ -1,0 +1,40 @@
+<snippet>
+    <content><![CDATA[
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title> </title>
+
+    <!-- Le HTML5 shim, for IE6-8 support of HTML elements -->
+    <!--[if lt IE 9]>
+      <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <!-- Le styles -->
+    <link rel="stylesheet" href="/static/css/style.css">
+    <link rel="stylesheet" href="/static/ui-lightness/jquery-ui-1.8.16.custom.css" />
+    <link rel="stylesheet" href="/static/css/simplemodal.css">
+
+    <!-- IE6 "fix" for the close png image -->
+    <!--[if lt IE 7]>
+    <link type='text/css' href='css/simplemodal_ie.css' rel='stylesheet' media='screen' />
+    <![endif]-->
+
+    <!-- Le javascript -->
+    <script src="/static/js/jquery-1.7.1.min.js"></script>
+
+    <script type="text/javascript">
+    </script>
+
+  </head>
+  <body>
+    $0
+  </body>
+</html>
+]]></content>
+    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+    <tabTrigger>html5</tabTrigger>
+    <!-- Optional: Set a scope to limit where the snippet will trigger -->
+    <!-- <scope>source.html</scope> -->
+</snippet>

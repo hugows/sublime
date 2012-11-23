@@ -22,9 +22,8 @@
 		"*.psd"
 	],
 	"caret_style": "phase",
-	"wide_caret":true,
 	"close_windows_when_empty": true,
-	"color_scheme": "Packages/Color Scheme - Default/Mac Classic.tmTheme",
+	"color_scheme": "Packages/User/Mac Classudo.tmTheme",
 	"default_line_ending": "unix",
 	"draw_minimap_border": true,
 	"ensure_newline_at_eof_on_save": true,
@@ -64,8 +63,8 @@
 		"work"
 	],
 	"font_size": 11.0,
-	"highlight_modified_tabs": true,
 	"highlight_line": true,
+	"highlight_modified_tabs": true,
 	"hot_exit": false,
 	"ignored_packages":
 	[
@@ -98,5 +97,6 @@
 	"translate_tabs_to_spaces": true,
 	"tree_animation_enabled": false,
 	"vintage_start_in_command_mode": true,
+	"wide_caret": true,
 	"word_wrap": false
 }

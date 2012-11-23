@@ -21,7 +21,8 @@
 		"*.out",
 		"*.psd"
 	],
-	"caret_style": "wide",
+	"caret_style": "phase",
+	"wide_caret":true,
 	"close_windows_when_empty": true,
 	"color_scheme": "Packages/Color Scheme - Default/Mac Classic.tmTheme",
 	"default_line_ending": "unix",
@@ -64,6 +65,7 @@
 	],
 	"font_size": 11.0,
 	"highlight_modified_tabs": true,
+	"highlight_line": true,
 	"hot_exit": false,
 	"ignored_packages":
 	[

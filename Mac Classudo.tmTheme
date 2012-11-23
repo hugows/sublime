@@ -22,9 +22,7 @@
 				<key>lineHighlight</key>
 				<string>#2E2E2E12</string>
 				<key>selection</key>
-				<string>#34A7BD</string>
-				<key>selectionForeground</key>
-				<string>#FFFFFF</string>
+				<string>#FEC12Eee</string>
 				<key>inactiveSelection</key>
 				<string>#9D550FAA</string>
 				<key>inactiveSelectionForeground</key>

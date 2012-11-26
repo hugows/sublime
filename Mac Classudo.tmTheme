@@ -22,7 +22,7 @@
 				<key>lineHighlight</key>
 				<string>#2E2E2E12</string>
 				<key>selection</key>
-				<string>#FEC12Eee</string>
+				<string>#4D97FF54</string>
 				<key>inactiveSelection</key>
 				<string>#9D550FAA</string>
 				<key>inactiveSelectionForeground</key>
@@ -33,20 +33,16 @@
 				<string>#000000</string>
 				<key>activeGuide</key>
 				<string>#34A7BD</string>
-				<key>gutterForeground</key>
-				<string>#858585</string>
-				<key>gutter</key>
-				<string>#E5E5E5</string>
 
 				<key>bracketsForeground</key>
-				<string>#F8F8F2A5</string>
+				<string>#0000FF</string>
 				<key>bracketsOptions</key>
-				<string>underline</string>
+				<string>foreground underline</string>
 
 				<key>bracketContentsForeground</key>
-				<string>#F8F8F2A5</string>
+				<string>#0000FF</string>
 				<key>bracketContentsOptions</key>
-				<string>underline</string>
+				<string>foreground underline</string>
 
 				<key>tagsOptions</key>
 				<string>stippled_underline</string>				

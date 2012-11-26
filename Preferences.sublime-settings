@@ -1,4 +1,5 @@
 {
+	"auto_complete_commit_on_tab": true,
 	"binary_file_patterns":
 	[
 		"*.jpg",
@@ -22,9 +23,8 @@
 		"*.psd"
 	],
 	"caret_style": "phase",
-	"auto_complete_commit_on_tab": true,
 	"close_windows_when_empty": true,
-	"color_scheme": "Packages/Color Scheme - User/Tomorrow-Night-Blue.tmTheme",
+	"color_scheme": "Packages/User/Mac Classudo.tmTheme",
 	"default_line_ending": "unix",
 	"draw_minimap_border": true,
 	"ensure_newline_at_eof_on_save": true,
@@ -92,7 +92,7 @@
 		"draw_normal"
 	],
 	"indent_to_bracket": true,
-	"margin": 0,
+	"match_brackets_content": true,
 	"open_files_in_new_window": true,
 	"preview_on_click": false,
 	"remember_open_files": false,

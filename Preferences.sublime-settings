@@ -22,8 +22,9 @@
 		"*.psd"
 	],
 	"caret_style": "phase",
+	"auto_complete_commit_on_tab": true,
 	"close_windows_when_empty": true,
-	"color_scheme": "Packages/User/Mac Classudo.tmTheme",
+	"color_scheme": "Packages/Color Scheme - User/Tomorrow-Night-Blue.tmTheme",
 	"default_line_ending": "unix",
 	"draw_minimap_border": true,
 	"ensure_newline_at_eof_on_save": true,
@@ -62,6 +63,11 @@
 		"CVS",
 		"work"
 	],
+	"font_face": "pragmatapro",
+	"font_options":
+	[
+		"directwrite"
+	],
 	"font_size": 11.0,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
@@ -97,6 +103,5 @@
 	"translate_tabs_to_spaces": true,
 	"tree_animation_enabled": false,
 	"vintage_start_in_command_mode": true,
-	"wide_caret": true,
-	"word_wrap": false
+	"wide_caret": true
 }

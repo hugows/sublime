@@ -2,6 +2,10 @@
 	"camaleon":
 	[
 		[
+			"Soda Dark.sublime-theme",
+			"Packages/User/wolfie.tmTheme"
+		],
+		[
 			"Soda Light.sublime-theme",
 			"Packages/User/Mac Classudo.tmTheme"
 		],

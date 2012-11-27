@@ -33,6 +33,8 @@
     { "keys": ["ctrl+alt+1"], "command": "fold_by_level", "args": {"level": 1} },
     { "keys": ["ctrl+alt+2"], "command": "unfold_all" },
     { "keys": ["ctrl+tab"], "command": "next_view" },
+    { "keys": ["ctrl+t"], "command": "jump_back" },
+    { "keys": ["ctrl+."], "command": "navigate_to_definition" },
     { "keys": ["ctrl+shift+tab"], "command": "prev_view" },
     { "keys": ["alt+-"], "command": "toggle_comment", "args": { "block": false } },
     { "keys": ["alt+s"], "command": "format_sql" },

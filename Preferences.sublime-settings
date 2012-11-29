@@ -23,7 +23,7 @@
 	],
 	"caret_style": "phase",
 	"close_windows_when_empty": true,
-	"color_scheme": "Packages/Color Scheme - User/Tomorrow-Night-Blue.tmTheme",
+	"color_scheme": "Packages/User/wolfie.tmTheme",
 	"default_line_ending": "unix",
 	"draw_minimap_border": true,
 	"ensure_newline_at_eof_on_save": true,
@@ -31,7 +31,6 @@
 	"file_exclude_patterns":
 	[
 		"tags",
-		".gitignore",
 		".tags",
 		"*.exe",
 		"*.obj",
@@ -71,7 +70,7 @@
 		"directwrite",
 		"no_bold"
 	],
-	"font_size": 8,
+	"font_size": 9.0,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"hot_exit": false,
@@ -101,7 +100,7 @@
 	"save_on_focus_lost": true,
 	"scroll_past_end": true,
 	"show_tab_close_buttons": true,
-	"theme": "Soda Light.sublime-theme",
+	"theme": "Soda Dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"tree_animation_enabled": false,
 	"vintage_start_in_command_mode": true,

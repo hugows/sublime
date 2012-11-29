@@ -52,7 +52,8 @@
 		".DS_Store",
 		"*.class",
 		"*.db",
-		"*.scssc"
+		"*.scssc",
+		"*.min.css"
 	],
 	"fold_buttons": true,
 	"folder_exclude_patterns":

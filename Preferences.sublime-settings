@@ -23,7 +23,7 @@
 	],
 	"caret_style": "phase",
 	"close_windows_when_empty": true,
-	"color_scheme": "Packages/User/Mac Classudo.tmTheme",
+	"color_scheme": "Packages/User/wolfie.tmTheme",
 	"default_line_ending": "unix",
 	"draw_minimap_border": true,
 	"ensure_newline_at_eof_on_save": true,
@@ -63,6 +63,7 @@
 		"CVS",
 		"work"
 	],
+	"font_face": "fixed",
 	"font_options":
 	[
 		"no_bold"
@@ -78,6 +79,7 @@
 	"ignored_words":
 	[
 		"Pre",
+		"Rajan",
 		"and/or",
 		"buf",
 		"enum",
@@ -91,10 +93,15 @@
 	"match_brackets_content": true,
 	"open_files_in_new_window": true,
 	"remember_open_files": false,
+	"rulers":
+	[
+		80
+	],
 	"save_on_focus_lost": true,
-	"scroll_past_end": false,
+	"scroll_past_end": true,
 	"show_tab_close_buttons": true,
-	"theme": "Soda Light.sublime-theme",
+	"soda_classic_tabs": true,
+	"theme": "Soda Dark.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"tree_animation_enabled": false,
 	"trim_trailing_white_space_on_save": true,

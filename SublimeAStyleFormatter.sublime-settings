@@ -1,0 +1,24 @@
+{
+    // NOTE: You should always edit options in user file, not this file.
+
+    // Please visit http://astyle.sourceforge.net/astyle.html for more information
+
+    "options_default": {
+        "style": "1tbs",
+        "indent": "spaces",
+        "indent-spaces": 4,
+        "indent-col1-comments": true,
+        "break-blocks": "",
+        "min-conditional-indent": 1,
+        "pad-oper": true,
+        "pad-paren": false,
+        "pad-paren-out": false,
+        "pad-paren-in": false,
+        "pad-header": true,
+        "unpad-paren": true,
+        "keep-one-line-statements": true,
+        "convert-tabs": true,
+        "align-pointer": "name",
+        "align-reference": "name"
+    }
+}
